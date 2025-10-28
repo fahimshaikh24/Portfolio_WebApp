@@ -43,33 +43,34 @@ Showcase your skills, projects, and let others connect with you easily!
 
 ## ⚙️ How to Run :
 
-1️⃣ Check if Python is installed  
+- 1️⃣ Check if Python is installed  
     python --version
-2️⃣ Install Flask
+- 2️⃣ Install Flask
     pip install flask
-3️⃣ Go to project folder
+- 3️⃣ Go to project folder
     cd path/to/your/project
-4️⃣ Run Flask app
+- 4️⃣ Run Flask app
     python app.py
-5️⃣ Open browser
+- 5️⃣ Open browser
     http://127.0.0.1:5000/
 
 ## 📂 Project Structure
 
 📁 Portfolio-Website
- ├─ app.py
- ├─ 📁 templates
- │   ├─ base.html
- │   ├─ index.html
- │   ├─ contact.html
- ├─ 📁 static
- │   ├─ style.css
- │   ├─ home.png
- │   ├─ contact.png
- │   ├─ projects.png
+├─ app.py
+├─ 📁 templates
+│ ├─ base.html
+│ ├─ index.html
+│ ├─ contact.html
+├─ 📁 static
+│ ├─ style.css
+│ ├─ home.png
+│ ├─ contact.png
+│ ├─ projects.png
 
 ## 👨‍💻 Author
 Fahim Shaikh
 SY BTECH in Computer Science & Engineering
 🚀 Passionate Python & Web Dev Learner
+
 
