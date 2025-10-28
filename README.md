@@ -77,8 +77,9 @@ Portfolio-Website/
 
 ## 👨‍💻 Author
 Fahim Shaikh
-SY BTECH in Computer Science & Engineering
-🚀 Passionate Python & Web Dev Learner
+- SY BTECH in Computer Science & Engineering
+- 🚀 Passionate Python & Web Dev Learner
+
 
 
 
