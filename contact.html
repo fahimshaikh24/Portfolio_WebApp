@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block content %}
+
+<section class="contact-section">
+    <h2>Contact Me 📩</h2>
+    <p class="contact-text">
+        Have a question or an opportunity? Feel free to reach out!
+        I'm always open to connecting.
+    </p>
+
+    {% with messages = get_flashed_messages() %}
+      {% if messages %}
+        <p class="flash">{{ messages[0] }}</p>
+      {% endif %}
+    {% endwith %}
+
+    <form action="/contact" method="POST" class="contact-form">
+        <input type="text" name="fullname" placeholder="👤 Your Name" required>
+        <input type="email" name="email" placeholder="✉️ Your Email" required>
+        <textarea name="message" placeholder="📝 Your Message" rows="5" required></textarea>
+        <button type="submit" class="send-btn">Send Message</button>
+    </form>
+
+</section>
+
+{% endblock %}
