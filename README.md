@@ -56,21 +56,24 @@ Showcase your skills, projects, and let others connect with you easily!
 
 ## 📂 Project Structure
 
+📂 Project Structure
+
 📁 Portfolio-Website
 ├─ app.py
-├─ 📁 templates
-│ ├─ base.html
-│ ├─ index.html
-│ ├─ contact.html
-├─ 📁 static
-│ ├─ style.css
-│ ├─ home.png
-│ ├─ contact.png
-│ ├─ projects.png
+├─ templates
+│  ├─ base.html
+│  ├─ index.html
+│  ├─ contact.html
+├─ static
+│  ├─ style.css
+│  ├─ home.png
+│  ├─ contact.png
+│  ├─ projects.png
 
 ## 👨‍💻 Author
 Fahim Shaikh
 SY BTECH in Computer Science & Engineering
 🚀 Passionate Python & Web Dev Learner
+
 
 
